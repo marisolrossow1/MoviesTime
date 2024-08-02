@@ -3,7 +3,7 @@
   <v-app>
 
     <v-app-bar app :elevation="2" rounded>
-      <a href="/">
+      <a href="/moviestime/">
         <img alt="MovieTime Cinemas" src="@/assets/logo-nav.png" width="170" height="44" />
       </a>
     </v-app-bar>
